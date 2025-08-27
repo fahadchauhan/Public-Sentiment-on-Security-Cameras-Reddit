@@ -1,0 +1,6 @@
+arctic_shift/*
+codes/__pycache__/*
+Data/*
+embeddings/*
+old_README.md
+.idea
